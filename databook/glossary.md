@@ -78,6 +78,9 @@ HVA
   etc. In the mouse, higher visual areas include: VISl, VIsal, VISpm, VISam,
   VISrl among others. For more, see {cite:t}`glickfeld_higher-order_2017`.
 
+Hyperparameter
+  A configuration value that affects how the model learns, such as regularization strength, learning rate, or choice of optimizer.
+
 Interneuron
   Also known as a local interneuron: a neuron that has short axons and synapse
   exclusively with nearby neurons. In the cortex the term is often used to refer to inhibitory neurons.
