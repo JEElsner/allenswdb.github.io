@@ -98,6 +98,9 @@ chapters:
     - file: anatomy/microns-em/em-functional_data.md
     - file: anatomy/microns-em/em-coordinates.md
     - file: anatomy/microns-em/em-ultrastructure.md
-  - file: anatomy/single-cell-morphology/scm-background                    # Also a placeholder that needs actual content
+  - file: anatomy/single-cell-morphology/scm-background     # Also a placeholder that needs actual content
+- file: computational/Computational.md
+  sections:
+    - file: computational/day4.md
 - file: glossary
 - file: bibliography
