@@ -100,6 +100,6 @@ chapters:
     - file: anatomy/microns-em/em-ultrastructure.md
   - file: anatomy/single-cell-morphology/scm-background                    # Also a placeholder that needs actual content
 - sections: Computational Tutorials
-  - file: computational-tutorials/classification.md
+  - file: computational/classification.md
 - file: glossary
 - file: bibliography
