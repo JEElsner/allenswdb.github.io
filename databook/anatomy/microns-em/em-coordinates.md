@@ -72,6 +72,7 @@ from caveclient import CAVEclient
 
 client = CAVEclient('minnie65_public')
 
+client.materialize.version = 661
 ct_df = client.materialize.query_table('aibs_soma_nuc_metamodel_preds_v117', split_positions=True)
 
 # convert to nanometers
